@@ -1,5 +1,5 @@
 def words(phrase):
-	"""counts instances of a word in a phrase"""
+	"""counts instances of a word in a phrase by Titus Njiru"""
 	wordlist = phrase.split()
 	unique_wordlist = []
 	word_freq = []
